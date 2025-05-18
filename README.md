@@ -1,5 +1,7 @@
 ## Hi guys, I'm Putri Amelia👋
 
+![putri amelia](/header.png) 
+
 🌱 I am currently studying UI/UX Design, Front-End Development **(HTML, CSS, JavaScript)** , and **Python**
 
 👯 I want to collaborate on tech projects for good, especially those focused on sustainability, public service, or small business empowerment
