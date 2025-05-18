@@ -15,3 +15,11 @@
 ⚡ Fun fact: I graduated from a multimedia design vocational school but I majored in informatics engineering 
 
 ![Robot](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExamx2YnlsdnR4bDV5Y25tajU2andkMHZpYjVzNjV1N3NnaXBvNXlwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1n92hYPiFQ0efcCtrF/giphy.gif)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/putriameliaux07/putriameliaux07/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/putriameliaux07/putriameliaux07/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/putriameliaux07/putriameliaux07/output/pacman-contribution-graph.svg">
+</picture>
+
+###
